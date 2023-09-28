@@ -1,1 +1,0 @@
-2D Snake and Fruit Game Project using c++ SFML
